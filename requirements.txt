@@ -7,3 +7,4 @@ gunicorn
 whitenoise
 python-dotenv
 google-generativeai
+Pillow>=10.0.0
